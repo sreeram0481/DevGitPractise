@@ -5,3 +5,6 @@ class sum{
 		System.out.println(c);
 	}
 }
+as
+as
+a
